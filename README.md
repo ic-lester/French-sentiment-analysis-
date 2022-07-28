@@ -1,11 +1,17 @@
 ## French Sentiment Analysis
 
-This repo contains data and code used by [Isobel Lester](https://github.com/ic-lester/) to perform sentiment analysis on two French language corpora - one translated by professional translators, and one translated by machine translation. This work was guided by four question:
+This repo contains data and code used by [Isobel Lester](https://github.com/ic-lester/) to perform sentiment analysis on two French language corpora - one translated by professional translators, and one translated by machine translation.
+
+### Why
+
+This work was guided by four question:
 
 * How accurately can a machine translate emotion and the desired impact of the author compared to a human translation?
 * What variations are produced between a human generated and AI generated translation? Do they alter the meaning?
 * What limitations are there to AI translation software?
 * Should complex human languages be reduced to numbers? How accurately can it do this?
+
+## How
 
 Anyone wishing to run the code themselves has two options:
 
