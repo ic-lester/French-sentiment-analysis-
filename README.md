@@ -20,6 +20,6 @@ Anyone wishing to run the code themselves has two options:
 
 ### Rights
 
-Code and data produced in spring/summer 2022 by Isobel Lester as part of a Digital Humanities Internship funded by the School of Humanities at the University of Southampton.
+This notebook was produced in spring/summer 2022 by [Isobel Lester](https://github.com/ic-lester/) as part of a [Digital Humanities Internship](https://www.southampton.ac.uk/study/facilities/digital-humanities-facilities) funded by the [School of Humanities](https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-humanities) at the [University of Southampton](https://www.southampton.ac.uk/).
 
 Code in this repo is released under a [CC-BY](https://creativecommons.org/licenses/by/4.0/deed.en) license.
