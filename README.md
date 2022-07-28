@@ -11,7 +11,7 @@ This work was guided by four question:
 * What limitations are there to AI translation software?
 * Should complex human languages be reduced to numbers? How accurately can it do this?
 
-## How
+### How
 
 Anyone wishing to run the code themselves has two options:
 
