@@ -15,7 +15,7 @@ This work was guided by four question:
 
 Anyone wishing to run the code themselves has two options:
 
-* Run everything in this Google Colab notebook hosted by [James Baker](https://github.com/drjwbaker) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tVzfWr9M0IVkT4Iw9JLbW0TFbtZB_GjR?usp=sharing)
+* Run everything in this Google Colab notebook (https://github.com/drjwbaker) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tVzfWr9M0IVkT4Iw9JLbW0TFbtZB_GjR?usp=sharing) hosted by [James Baker].
 * To set up a python environment on your machine for local processing, follow the steps described at Zoë Wilkinson Saldaña, "Sentiment Analysis for Exploratory Data Analysis," *Programming Historian* 7 (2018), [https://doi.org/10.46430/phen0079](https://doi.org/10.46430/phen0079).
 
 ### Rights
