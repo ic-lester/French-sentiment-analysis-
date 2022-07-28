@@ -21,3 +21,5 @@ Anyone wishing to run the code themselves has two options:
 ### Rights
 
 Code and data produced in spring/summer 2022 by Isobel Lester as part of a Digital Humanities Internship funded by the School of Humanities at the University of Southampton.
+
+Code in this repo is released under a [CC-BY](https://creativecommons.org/licenses/by/4.0/deed.en) license.
