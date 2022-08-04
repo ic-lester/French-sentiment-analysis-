@@ -11,7 +11,7 @@ This work was guided by four question:
 * What limitations are there to AI translation software?
 * Should complex human languages be reduced to numbers? How accurately can it do this?
 
-Both these and the project findings are discussed in greater detail in [@ic-lester](https://github.com/ic-lester/)'s [Project Report](https://github.com/Southampton-Digital-Humanities/2022_french-sentiment-analysis/blob/main/2022-08_Lester-I_nlp-report.pdf).
+Both these and the project findings are discussed in greater detail in the [Project Report](https://github.com/Southampton-Digital-Humanities/2022_french-sentiment-analysis/blob/main/2022-08_Lester-I_nlp-report.pdf).
 
 ### How
 
